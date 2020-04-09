@@ -9,7 +9,7 @@ Name - Aditya Raj
 
 Registration No - 11802784
 
-Section - K18jc
+Section - K18JC
 
 Roll No - 56
 
