@@ -28,3 +28,6 @@ P2      |      2       |     3
 P4      |      4       |     1
 
 Calculate the average turnaround time and average waiting time for each process. The input for number of processes and their arrival time, burst time should be given by the user
+
+
+![](/images/first_testcase.png)
