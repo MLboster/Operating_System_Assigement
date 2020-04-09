@@ -29,5 +29,14 @@ P4      |      4       |     1
 
 Calculate the average turnaround time and average waiting time for each process. The input for number of processes and their arrival time, burst time should be given by the user
 
-
+### First Test Case
 ![](/images/first_testcase.png)
+
+--------------------------------------------------------------------------------------------------------------------------
+### Second Third Case 
+![](/images/second_testcase.png)
+
+---------------------------------------------------------------------------------------------------------------------------
+### Third Test Case 
+![](/images/third_testcase.png)
+
